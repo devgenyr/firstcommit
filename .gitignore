@@ -1,0 +1,7 @@
+# Ignore folders
+.idea/
+node_modules/
+# Ignore files
+natours/css/style.comp.css
+natours/css/style.concat.css
+natours/css/style.prefix.css
